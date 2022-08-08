@@ -1,3 +1,4 @@
 Tárgy?
 Igen
 Nagyobb mint egy TV?
+Nem
