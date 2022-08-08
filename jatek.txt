@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Tárgy?
-=======
 Tárgy?
 Igen
->>>>>>> 4dbbf5f (Valasz1)
+Nagyobb mint egy TV?
